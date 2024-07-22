@@ -1,4 +1,4 @@
 # apnacollege
 this is my 2nd git repo.
 <br>
-author - priyank
+author - priyank (apna college)
